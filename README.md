@@ -8,7 +8,7 @@ University of Greenwich - UK / October University for Modern Sciences and Arts "
 
 What is the project?
 
-It is a solving for a lecure task for Creation of 3D-wheel lookalike shape and giving the ability to user to move the whole scene by camera.
+It is a solving for a lecture task for Creation of 3D-wheel lookalike shape and giving the ability to user to move the whole scene by camera.
 
 How does someone develop, use, and test the code?
 
